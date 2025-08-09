@@ -1,0 +1,14 @@
+D:\Projetos\C#\EstacionamentoDio\bin\Debug\net9.0\EstacionamentoDio.exe
+D:\Projetos\C#\EstacionamentoDio\bin\Debug\net9.0\EstacionamentoDio.deps.json
+D:\Projetos\C#\EstacionamentoDio\bin\Debug\net9.0\EstacionamentoDio.runtimeconfig.json
+D:\Projetos\C#\EstacionamentoDio\bin\Debug\net9.0\EstacionamentoDio.dll
+D:\Projetos\C#\EstacionamentoDio\bin\Debug\net9.0\EstacionamentoDio.pdb
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.AssemblyInfoInputs.cache
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.AssemblyInfo.cs
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.dll
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\refint\EstacionamentoDio.dll
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.pdb
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\EstacionamentoDio.genruntimeconfig.cache
+D:\Projetos\C#\EstacionamentoDio\obj\Debug\net9.0\ref\EstacionamentoDio.dll
